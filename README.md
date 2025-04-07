@@ -5,7 +5,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![NUnit](https://img.shields.io/badge/-NUnit-00A9C4?style=flat-square&logo=nunit&logoColor=white)
+![XUnit](https://img.shields.io/badge/-XUnit-00A9C4?style=flat-square&logo=nunit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-1A1A1A?style=flat-square&logo=openai&logoColor=white)
