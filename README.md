@@ -18,8 +18,8 @@
 ---
 
 ## 📊 GitHub Статистика:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandoler&layout=compact&langs_count=100&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gandoler&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenia&layout=compact&langs_count=100&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jenia&show_icons=true&theme=dark)
 
 
 ---
