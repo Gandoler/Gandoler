@@ -33,8 +33,8 @@
 5. **Crud приложения для регистрации с интерфейсом и серверной частью на Python отделеной от него для генерации текста **   на данный момент заброшен на этапе выноса из него всей логики на сервер 
    - Клиент написан на **WinForms**  
    - Сервер реализован на **Python**   
-   Репозиторий: [Destop app]([[https://github.com/Gandoler/CHESSUI](https://github.com/Gandoler/OTSC-server)](https://github.com/Gandoler/OTSC))
-   Репозиторий: [Server python]([https://github.com/Gandoler/CHESSUI](https://github.com/Gandoler/OTSC-server))
+   Репозиторий: [Destop app](https://github.com/Gandoler/OTSC-server)
+   Репозиторий: [Server python](https://github.com/Gandoler/OTSC-server)
 
 ---
 
