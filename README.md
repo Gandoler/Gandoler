@@ -1,4 +1,4 @@
-# Привет, я Глеб 👋
+# Привет
 
 
 
@@ -15,7 +15,7 @@
    - Работа с почтой через встроенный **SMTP-сервер**
    - **Entity Framework** и **PostgreSQL** для работы с базой данных  
    Репозиторий: [OTSC_DBProxy](https://github.com/Gandoler/OTSC_DBProxy)  
-   > ⚠️ Некоторые микросервисы находятся в закрытых репозиториях, так как проект реализовывался в команде.
+   >  Некоторые микросервисы находятся в закрытых репозиториях, так как проект реализовывался в команде.
 
 2. **Примеры шаблонов проектирования**  
    Коллекция примеров с реализациями популярных **паттернов проектирования**.  
@@ -40,7 +40,7 @@
 
 
 
-## 🔧 Стэк:
+##  Стэк:
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -57,21 +57,21 @@
 
 ---
 
-## 📊 GitHub Статистика:
+## GitHub Статистика:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandoler&layout=compact&langs_count=100&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gandoler&show_icons=true&theme=dark)
 
 ---
 
-## ⚡ Активность:
+## Активность:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gandoler&theme=tokyo-night)](https://github.com/gandoler)
 
 ---
 
-## 📫 Как меня найти:
+## Как меня найти:
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/GGandoler)
-- 📧 Email: gleb.frolov.04@bk.ru
+- Email: gleb.frolov.04@bk.ru
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🛠 Инструменты:
+## Инструменты:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
